@@ -1,5 +1,5 @@
 <h1>Gabriel Borchardt</h1>
-<p>Hello there! My name is Gabriel Borchardt, and I am a Junior Web Developer based in Guarapuava, Paraná, Brazil. I am currently a student of Internet Systems at the Federal University of Technology - Paraná and I work in the IT department of a wood processing industry as a web developer.</p>
+<p>Hello there! My name is Gabriel Borchardt, and I am a Junior Web Developer from Guarapuava, Paraná, Brazil. I am currently a student of Internet Systems at the Federal University of Technology - Paraná and I work in the IT department of a wood processing industry as a web developer.</p>
 
 <h2>Skills and Tools</h2>
 <p>Here are some of the skills and tools I have experience with:</p>
