@@ -1,6 +1,6 @@
 # Gabriel Borchardt  
 
-Hello there! My name is Gabriel Borchardt, and I am a PL Web Developer from Guarapuava, Paraná, Brazil. I am currently a student of Internet Systems at the Federal University of Technology - Paraná and work as a **Pleno Web Developer**, focusing on **web development**, **process automation**, and consulting. I am also a **TOTVS Homologated Consultant**.  
+Hello there! My name is Gabriel Borchardt, and I am a PL Web Developer from Guarapuava, Paraná, Brazil. I am currently a student of Internet Systems at the Federal University of Technology - Paraná and work as a **Pleno Web Developer**, focusing on **web development**, **process automation**, and consulting.
 
 ## Skills and Tools  
 Here are some of the skills and tools I have experience with:  
