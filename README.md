@@ -2,10 +2,11 @@
 
 Hello there! My name is Gabriel Borchardt, and I am a PL Web Developer from Guarapuava, Paraná, Brazil. I am currently a student of Internet Systems at the Federal University of Technology - Paraná and work as a **Pleno Web Developer**, focusing on **web development**.
 
-- 🔧 I’m currently working with PHP, TypeScript and web analytics modules  
-- 🌱 Always learning, building and exploring new technologies!  
-- 💬 Ask me about web architecture, backend design or automation  
-- 📫 Reach me at: ogborchctt@gmail.com 
+- 🛠️ Currently diving into PHP, TypeScript, and crafting custom analytics modules
+
+- 🚀 Forever curious — building, breaking, and learning along the way
+
+- 📬 You can reach me at: ogborchctt@gmail.com
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borchardttt&layout=compact&langs_count=8&theme=dracula"/>
